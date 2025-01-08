@@ -1,0 +1,20 @@
+.git
+.git/
+.git/**
+.vscode
+.vscode/
+.vscode/**
+__pycache__
+__pycache__/
+__pycache__/**
+*.pyc
+*.pkl
+*.faiss
+*.DS_Store
+*.env
+data/sample_papers/Attention is all you need.pdf
+data/sample_papers/DistilBERT.pdf
+data/sample_papers/RAG for Knowledge Intensive NLP Tasks.pdf
+gpu_check.py
+results.txt
+test_env.py
