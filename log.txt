@@ -27,3 +27,4 @@ Initial commit - folder structure
 Embeddings updated
 Retriever updated
 Generator with distilgpt and structured prompt
+Generator with t5small with structured and concise prompt
